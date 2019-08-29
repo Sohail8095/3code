@@ -1,5 +1,5 @@
 # 3code
 
-#Test file
-
+Test file
+Removed the comment from the file
 Test is done
